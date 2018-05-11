@@ -1,4 +1,4 @@
-# BuildScgool2018
+# BuildSchool2018
 Test
 
 
