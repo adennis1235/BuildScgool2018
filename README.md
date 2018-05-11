@@ -14,6 +14,39 @@ MVC
 
 **Buildschool**  
 
-***Buildschool***  
+***Buildschool***
 
     Buildschool  
+ABC 
+
+    aaaa
+
+# Buildschool  
+## Buildschool  
+### Buildschool  
+#### Buildschool  
+##### Buildschool  
+###### Buildschool  
+
+
+\# Buildschool  
+\* Buildschool  
+
+    * Buildschool  
+
+ 
+\> Buildschool  
+
+1. C#
+2. HTML
+3. CSS
+4. Javascrip  
+    1. JQuery
+    2. Ajax
+
+---  
+`
+var vx=100
+`
+
+
